@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Codet21`,
-    author: `burdock.w`,
+    title: `Codet28`,
+    author: `otemomi`,
     description: `コードの海に溺れたい`,
-    siteUrl: `https://otemomi.github.io/site`,
+    siteUrl: `https://codet28.netlify.com`,
     social: {
       twitter: `otemomi`,
     },
