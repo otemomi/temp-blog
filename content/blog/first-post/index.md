@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: なぜサイトを始めるのかとか
 date: "2019-08-03T23:21:03.284Z"
-description: "Hello World"
+description: "なぜサイトを始めるのかとか"
 ---
 
 ## きっとコツコツやったことは身になるから
