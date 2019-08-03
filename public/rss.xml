@@ -1,2 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Codet28]]></title><description><![CDATA[コードの海に溺れたい]]></description><link>https://codet28.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 03 Aug 2019 14:52:52 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[Gatsby 始めました 夏なので。]]></description><link>https://codet28.netlify.com/hello-world/</link><guid isPermaLink="false">https://codet28.netlify.com/hello-world/</guid><pubDate>Sat, 03 Aug 2019 23:21:03 GMT</pubDate><content:encoded>&lt;h2&gt;Gatsby 始めました&lt;/h2&gt;
-&lt;p&gt;夏なので。&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Codet28]]></title><description><![CDATA[コードの海に溺れたい]]></description><link>https://codet28.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 03 Aug 2019 15:20:12 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[きっとコツコツやったことは身になるから 何年かぶりにブログというかWeb上になんらしか記録の残していきたいという思いも生まれてきたので作ってみました。 少し前まではコード50%、DTP50%ぐらいの割合で仕事をしていましたが、半年ほど前からコード70%、EC…]]></description><link>https://codet28.netlify.com/first-post/</link><guid isPermaLink="false">https://codet28.netlify.com/first-post/</guid><pubDate>Sat, 03 Aug 2019 23:21:03 GMT</pubDate><content:encoded>&lt;h2&gt;きっとコツコツやったことは身になるから&lt;/h2&gt;
+&lt;p&gt;何年かぶりにブログというかWeb上になんらしか記録の残していきたいという思いも生まれてきたので作ってみました。&lt;/p&gt;
+&lt;p&gt;少し前まではコード50%、DTP50%ぐらいの割合で仕事をしていましたが、半年ほど前からコード70%、ECの商品登録・管理などに仕事の内容が移行したのでWeb技術の勉強も兼ねています。最近フロントエンド技術が必要だと強く感じているので、その辺りの勉強過程と生成物についても書いていけたらいいかなと考えています。&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h2&gt;WrdPressはやめました&lt;/h2&gt;
+&lt;p&gt;さてサイトを作るとして慣れ親しんだWordPressを使うという選択肢も考えましたが、重いのとアプデとか色々煩わしいと感じていたので、静的サイトジェネレーターを使ってみることにします。
+最初は勉強も兼ねてnext.jsもしくはnuxt.js辺りを考えましたが、私のスキル的には厳しいと思ったので昔少し試したことがある&lt;del&gt;Hexo&lt;/del&gt;を選択しました。Hexo自体も全然わかっていませんが、とりあえず公開するもではできたのでしばらくはこちらで運用していきます。&lt;/p&gt;
+&lt;h2&gt;今後の目標&lt;/h2&gt;
+&lt;p&gt;箇条書きで書いてみます。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Javascriptをしっかりと理解して使えるようになる&lt;/li&gt;
+&lt;li&gt;Vue.jsやReactを使えるようになる&lt;/li&gt;
+&lt;li&gt;最新のトレンドをしっかりと追い、身に着ける&lt;/li&gt;
+&lt;li&gt;Sketch or XDを使えるようになる&lt;/li&gt;
+&lt;li&gt;HTML5とCSS3の再勉強&lt;/li&gt;
+&lt;li&gt;AMP&lt;/li&gt;
+&lt;li&gt;SASS&lt;/li&gt;
+&lt;li&gt;git&lt;/li&gt;
+&lt;li&gt;勉強会への参加&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;とりあえず上で挙げた内容はやっていきたいと思います。&lt;/p&gt;
+&lt;h2&gt;あとがき&lt;/h2&gt;
+&lt;p&gt;やっぱりGatsby始めました。夏なので😤&lt;/p&gt;</content:encoded></item><item><title><![CDATA[今日思ったこと]]></title><description><![CDATA[7km 今日は7km歩きました。AppleWatchがあるといつも以上に達成感がある気がします。この3年で15kg…]]></description><link>https://codet28.netlify.com/190723/</link><guid isPermaLink="false">https://codet28.netlify.com/190723/</guid><pubDate>Tue, 23 Jul 2019 23:21:03 GMT</pubDate><content:encoded>&lt;h2&gt;7km&lt;/h2&gt;
+&lt;p&gt;今日は7km歩きました。AppleWatchがあるといつも以上に達成感がある気がします。この3年で15kgぐらい肥えてしまったので、なんとか痩せたいと思っています。パーソナルジムも気になりますが、お金が高すぎるので簡単に行こうとはならないので、できることからコツコツやっていきます。&lt;/p&gt;
+&lt;h2&gt;エスプレッソ&lt;/h2&gt;
+&lt;p&gt;アイスラテが好きです。家にエスプレッソマシーンがあったらいいのにと思っていますが、どうせ買うならデロンギの全自動とかではなく本格的なものが欲しいと思っています。
+エスプレッソを入れる時間も楽しみたい。そんな休日を送りたいものです😏&lt;/p&gt;</content:encoded></item><item><title><![CDATA[あいかわらずの雨]]></title><description><![CDATA[デザインをコソコソ変えてみた hexo-theme-cactusを使っていますが、色々と変えています。とりあえずPCではまともに表示できていると思いたいです。SP…]]></description><link>https://codet28.netlify.com/190722/</link><guid isPermaLink="false">https://codet28.netlify.com/190722/</guid><pubDate>Mon, 22 Jul 2019 23:21:03 GMT</pubDate><content:encoded>&lt;h2&gt;デザインをコソコソ変えてみた&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/probberechts/hexo-theme-cactus&quot;&gt;hexo-theme-cactus&lt;/a&gt;を使っていますが、色々と変えています。とりあえずPCではまともに表示できていると思いたいです。SPだと上部のメニューをどうにかしないとなぁ。多分ハンバーガーメニューが無難だろうけど、どうしようかという感じで現状は止まっています。そろそろ勉強をしないと。&lt;/p&gt;
+&lt;h2&gt;AppleWatchのバンド&lt;/h2&gt;
+&lt;p&gt;購入時についていたシリコンのものを取り敢えず使っていますが、夏は汗で蒸れてくるのが地味にストレス。良さそうなものを見つけたら交換しようと思います。&lt;/p&gt;
+&lt;h2&gt;麻婆茄子&lt;/h2&gt;
+&lt;p&gt;今日は麻婆茄子を作りました。ひき肉がなかったので、茄子とピーマンのみ。あとは昨日買った高菜をご飯に混ぜて高菜ご飯。こちらはすごく美味しかったです。
+今年の夏は日照時間が少なくて野菜が不作になりそうですが、実家から大量に野菜を貰えているので大変助かっています。&lt;/p&gt;
+&lt;h2&gt;料理男子&lt;/h2&gt;
+&lt;p&gt;男子という年でもありませんが、結婚して実家を出て料理を作ることの楽しさを覚えました。まだまだ未熟ですがYouTubeなどで勉強しながら色々作ってレパートリーを増やしていきたいです。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[今日思ったこと]]></title><description><![CDATA[…]]></description><link>https://codet28.netlify.com/190721/</link><guid isPermaLink="false">https://codet28.netlify.com/190721/</guid><pubDate>Sun, 21 Jul 2019 23:21:03 GMT</pubDate><content:encoded>&lt;h2&gt;あいにくの空模様&lt;/h2&gt;
+&lt;p&gt;ジメジメとして過ごしにくいことこの上ない陽気が続いています。
+とりあえずサイトの公開までこぎつけたので、次は見た目のカスタマイズに取り組んでいこうと思います。一からテーマを作るのはしんどそうなので、とりあえずは今使っているテーマを色々触っていこうと思います。
+久しぶりに仕事以外で時間をとってコードを触っていますが、楽しい時間になっています。&lt;/p&gt;
+&lt;h3&gt;フンドーキンのお醤油&lt;/h3&gt;
+&lt;p&gt;3年ほど前に出会いましたが、ものすごく美味しい。今までの醤油に比べてかなり甘みが強い醤油ですが冷奴にかけるだけでも美味しい。たまり醤油も好きですが食べ物によって使い分けるのがベストな気がします。&lt;/p&gt;
+&lt;h3&gt;日曜鬱&lt;/h3&gt;
+&lt;p&gt;毎週のことですが、日曜に夜はすごく憂鬱な気分になります。休みの過ごし方をもっと有意義なものにすれば変わるのだろうか。来週からはしっかり勉強に時間を取れるように計画していきたいです。&lt;/p&gt;</content:encoded></item></channel></rss>
